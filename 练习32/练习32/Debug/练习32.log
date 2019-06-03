@@ -1,0 +1,112 @@
+﻿生成启动时间为 2019/6/3 23:42:03。
+     1>项目“E:\重要文件\CCCCC\练习32\练习32\练习32.vcxproj”在节点 2 上(Build 个目标)。
+     1>ClCompile:
+         D:\visual studio\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TC /analyze- /errorReport:prompt test.c
+         test.c
+     1>d:\visual studio\vc\include\vadefs.h(50): error C2054: 在“分别用while和for写一个程序。程序让用户输入一个n，然后计算1到n的和。”之后应输入“(”
+     1>d:\visual studio\vc\include\vadefs.h(50): error C2085: “uintptr_t”: 不在形参表中
+     1>d:\visual studio\vc\include\vadefs.h(59): error C2085: “va_list”: 不在形参表中
+     1>d:\visual studio\vc\include\crtdefs.h(496): error C2085: “size_t”: 不在形参表中
+     1>d:\visual studio\vc\include\crtdefs.h(503): error C2085: “size_t”: 不在形参表中
+     1>d:\visual studio\vc\include\crtdefs.h(503): error C2146: 语法错误: 缺少“,”(在标识符“rsize_t”的前面)
+     1>d:\visual studio\vc\include\crtdefs.h(512): error C2085: “intptr_t”: 不在形参表中
+     1>d:\visual studio\vc\include\crtdefs.h(530): error C2085: “ptrdiff_t”: 不在形参表中
+     1>d:\visual studio\vc\include\crtdefs.h(536): error C2085: “wchar_t”: 不在形参表中
+     1>d:\visual studio\vc\include\crtdefs.h(541): error C2085: “wint_t”: 不在形参表中
+     1>d:\visual studio\vc\include\crtdefs.h(542): error C2085: “wctype_t”: 不在形参表中
+     1>d:\visual studio\vc\include\crtdefs.h(563): error C2085: “errno_t”: 不在形参表中
+     1>d:\visual studio\vc\include\crtdefs.h(567): error C2085: “__time32_t”: 不在形参表中
+     1>d:\visual studio\vc\include\crtdefs.h(572): error C2085: “__time64_t”: 不在形参表中
+     1>d:\visual studio\vc\include\crtdefs.h(580): error C2085: “__time64_t”: 不在形参表中
+     1>d:\visual studio\vc\include\crtdefs.h(580): error C2146: 语法错误: 缺少“,”(在标识符“time_t”的前面)
+     1>d:\visual studio\vc\include\crtdefs.h(635): error C2143: 语法错误 : 缺少“)”(在“*”的前面)
+     1>d:\visual studio\vc\include\crtdefs.h(635): error C2085: “_invalid_parameter”: 不在形参表中
+     1>d:\visual studio\vc\include\crtdefs.h(635): error C2143: 语法错误 : 缺少“;”(在“*”的前面)
+     1>d:\visual studio\vc\include\crtdefs.h(635): error C2059: 语法错误:“)”
+     1>d:\visual studio\vc\include\crtdefs.h(642): error C2143: 语法错误 : 缺少“)”(在“*”的前面)
+     1>d:\visual studio\vc\include\crtdefs.h(642): error C2143: 语法错误 : 缺少“{”(在“*”的前面)
+     1>d:\visual studio\vc\include\crtdefs.h(642): error C2059: 语法错误:“,”
+     1>d:\visual studio\vc\include\crtdefs.h(642): error C2059: 语法错误:“)”
+     1>d:\visual studio\vc\include\crtdefs.h(2087): error C2061: 语法错误: 标识符“wchar_t”
+     1>d:\visual studio\vc\include\crtdefs.h(2090): error C2059: 语法错误:“}”
+     1>d:\visual studio\vc\include\crtdefs.h(2097): error C2061: 语法错误: 标识符“locrefcount”
+     1>d:\visual studio\vc\include\crtdefs.h(2110): error C2143: 语法错误 : 缺少“{”(在“*”的前面)
+     1>d:\visual studio\vc\include\crtdefs.h(2111): error C2059: 语法错误:“}”
+     1>d:\visual studio\vc\include\stdio.h(182): error C2143: 语法错误 : 缺少“{”(在“__cdecl”的前面)
+     1>d:\visual studio\vc\include\stdio.h(213): error C2143: 语法错误 : 缺少“{”(在“__cdecl”的前面)
+     1>d:\visual studio\vc\include\stdio.h(222): error C2143: 语法错误 : 缺少“{”(在“__cdecl”的前面)
+     1>d:\visual studio\vc\include\stdio.h(222): error C2146: 语法错误: 缺少“)”(在标识符“_ElementSize”的前面)
+     1>d:\visual studio\vc\include\stdio.h(222): error C2081: “size_t”: 形参表中的名称非法
+     1>d:\visual studio\vc\include\stdio.h(222): error C2061: 语法错误: 标识符“_ElementSize”
+     1>d:\visual studio\vc\include\stdio.h(222): error C2059: 语法错误:“;”
+     1>d:\visual studio\vc\include\stdio.h(222): error C2059: 语法错误:“,”
+     1>d:\visual studio\vc\include\stdio.h(222): error C2059: 语法错误:“)”
+     1>d:\visual studio\vc\include\stdio.h(224): error C2143: 语法错误 : 缺少“{”(在“__cdecl”的前面)
+     1>d:\visual studio\vc\include\stdio.h(224): error C2146: 语法错误: 缺少“)”(在标识符“_DstSize”的前面)
+     1>d:\visual studio\vc\include\stdio.h(224): error C2081: “size_t”: 形参表中的名称非法
+     1>d:\visual studio\vc\include\stdio.h(224): error C2061: 语法错误: 标识符“_DstSize”
+     1>d:\visual studio\vc\include\stdio.h(224): error C2059: 语法错误:“;”
+     1>d:\visual studio\vc\include\stdio.h(224): error C2059: 语法错误:“,”
+     1>d:\visual studio\vc\include\stdio.h(224): error C2059: 语法错误:“)”
+     1>d:\visual studio\vc\include\stdio.h(228): error C2143: 语法错误 : 缺少“{”(在“__cdecl”的前面)
+     1>d:\visual studio\vc\include\stdio.h(246): error C2143: 语法错误 : 缺少“{”(在“__cdecl”的前面)
+     1>d:\visual studio\vc\include\stdio.h(246): error C2146: 语法错误: 缺少“)”(在标识符“_Size”的前面)
+     1>d:\visual studio\vc\include\stdio.h(246): error C2081: “size_t”: 形参表中的名称非法
+     1>d:\visual studio\vc\include\stdio.h(246): error C2061: 语法错误: 标识符“_Size”
+     1>d:\visual studio\vc\include\stdio.h(246): error C2059: 语法错误:“;”
+     1>d:\visual studio\vc\include\stdio.h(246): error C2059: 语法错误:“,”
+     1>d:\visual studio\vc\include\stdio.h(246): error C2059: 语法错误:“)”
+     1>d:\visual studio\vc\include\stdio.h(251): error C2146: 语法错误: 缺少“)”(在标识符“_Size”的前面)
+     1>d:\visual studio\vc\include\stdio.h(251): error C2081: “rsize_t”: 形参表中的名称非法
+     1>d:\visual studio\vc\include\stdio.h(251): error C2061: 语法错误: 标识符“_Size”
+     1>d:\visual studio\vc\include\stdio.h(251): error C2059: 语法错误:“;”
+     1>d:\visual studio\vc\include\stdio.h(251): error C2059: 语法错误:“)”
+     1>d:\visual studio\vc\include\stdio.h(296): error C2146: 语法错误: 缺少“)”(在标识符“_Size”的前面)
+     1>d:\visual studio\vc\include\stdio.h(296): error C2081: “size_t”: 形参表中的名称非法
+     1>d:\visual studio\vc\include\stdio.h(296): error C2061: 语法错误: 标识符“_Size”
+     1>d:\visual studio\vc\include\stdio.h(296): error C2059: 语法错误:“;”
+     1>d:\visual studio\vc\include\stdio.h(296): error C2059: 语法错误:“)”
+     1>d:\visual studio\vc\include\stdio.h(297): error C2146: 语法错误: 缺少“)”(在标识符“_SizeInBytes”的前面)
+     1>d:\visual studio\vc\include\stdio.h(297): error C2081: “size_t”: 形参表中的名称非法
+     1>d:\visual studio\vc\include\stdio.h(297): error C2061: 语法错误: 标识符“_SizeInBytes”
+     1>d:\visual studio\vc\include\stdio.h(297): error C2059: 语法错误:“;”
+     1>d:\visual studio\vc\include\stdio.h(297): error C2059: 语法错误:“,”
+     1>d:\visual studio\vc\include\stdio.h(297): error C2059: 语法错误:“)”
+     1>d:\visual studio\vc\include\stdio.h(300): error C2146: 语法错误: 缺少“)”(在标识符“_SizeInBytes”的前面)
+     1>d:\visual studio\vc\include\stdio.h(300): error C2081: “size_t”: 形参表中的名称非法
+     1>d:\visual studio\vc\include\stdio.h(300): error C2061: 语法错误: 标识符“_SizeInBytes”
+     1>d:\visual studio\vc\include\stdio.h(300): error C2059: 语法错误:“;”
+     1>d:\visual studio\vc\include\stdio.h(300): error C2059: 语法错误:“,”
+     1>d:\visual studio\vc\include\stdio.h(300): error C2059: 语法错误:“)”
+     1>d:\visual studio\vc\include\stdio.h(312): error C2146: 语法错误: 缺少“)”(在标识符“_MaxCount”的前面)
+     1>d:\visual studio\vc\include\stdio.h(312): error C2081: “size_t”: 形参表中的名称非法
+     1>d:\visual studio\vc\include\stdio.h(312): error C2061: 语法错误: 标识符“_MaxCount”
+     1>d:\visual studio\vc\include\stdio.h(312): error C2059: 语法错误:“;”
+     1>d:\visual studio\vc\include\stdio.h(312): error C2059: 语法错误:“,”
+     1>d:\visual studio\vc\include\stdio.h(312): error C2059: 语法错误:“)”
+     1>d:\visual studio\vc\include\stdio.h(313): error C2146: 语法错误: 缺少“)”(在标识符“_MaxCount”的前面)
+     1>d:\visual studio\vc\include\stdio.h(313): error C2081: “size_t”: 形参表中的名称非法
+     1>d:\visual studio\vc\include\stdio.h(313): error C2061: 语法错误: 标识符“_MaxCount”
+     1>d:\visual studio\vc\include\stdio.h(313): error C2059: 语法错误:“;”
+     1>d:\visual studio\vc\include\stdio.h(313): error C2059: 语法错误:“,”
+     1>d:\visual studio\vc\include\stdio.h(313): error C2059: 语法错误:“)”
+     1>d:\visual studio\vc\include\stdio.h(314): error C2146: 语法错误: 缺少“)”(在标识符“_MaxCount”的前面)
+     1>d:\visual studio\vc\include\stdio.h(314): error C2081: “size_t”: 形参表中的名称非法
+     1>d:\visual studio\vc\include\stdio.h(314): error C2061: 语法错误: 标识符“_MaxCount”
+     1>d:\visual studio\vc\include\stdio.h(314): error C2059: 语法错误:“;”
+     1>d:\visual studio\vc\include\stdio.h(314): error C2059: 语法错误:“,”
+     1>d:\visual studio\vc\include\stdio.h(314): error C2059: 语法错误:“)”
+     1>d:\visual studio\vc\include\stdio.h(315): error C2146: 语法错误: 缺少“)”(在标识符“_MaxCount”的前面)
+     1>d:\visual studio\vc\include\stdio.h(315): error C2081: “size_t”: 形参表中的名称非法
+     1>d:\visual studio\vc\include\stdio.h(315): error C2061: 语法错误: 标识符“_MaxCount”
+     1>d:\visual studio\vc\include\stdio.h(315): error C2059: 语法错误:“;”
+     1>d:\visual studio\vc\include\stdio.h(315): error C2059: 语法错误:“,”
+     1>d:\visual studio\vc\include\stdio.h(315): error C2059: 语法错误:“)”
+     1>d:\visual studio\vc\include\stdio.h(319): error C2143: 语法错误 : 缺少“{”(在“__cdecl”的前面)
+     1>d:\visual studio\vc\include\stdio.h(320): error C2143: 语法错误 : 缺少“{”(在“__cdecl”的前面)
+     1>d:\visual studio\vc\include\stdio.h(320): fatal error C1003: 错误计数超过 100；正在停止编译
+     1>已完成生成项目“E:\重要文件\CCCCC\练习32\练习32\练习32.vcxproj”(Build 个目标)的操作 - 失败。
+
+生成失败。
+
+已用时间 00:00:01.22
