@@ -1,0 +1,14 @@
+﻿生成启动时间为 2019/6/11 23:30:57。
+     1>项目“E:\重要文件\CCCCC\练习36\练习36\练习36.vcxproj”在节点 2 上(Build 个目标)。
+     1>ClCompile:
+         D:\visual studio\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TC /analyze- /errorReport:prompt test.c
+         test.c
+     1>e:\重要文件\ccccc\练习36\练习36\test.c(8): error C2065: “i”: 未声明的标识符
+     1>e:\重要文件\ccccc\练习36\练习36\test.c(10): error C2065: “i”: 未声明的标识符
+     1>e:\重要文件\ccccc\练习36\练习36\test.c(23): error C2059: 语法错误:“)”
+     1>e:\重要文件\ccccc\练习36\练习36\test.c(23): error C2065: “strlen（tail”: 未声明的标识符
+     1>已完成生成项目“E:\重要文件\CCCCC\练习36\练习36\练习36.vcxproj”(Build 个目标)的操作 - 失败。
+
+生成失败。
+
+已用时间 00:00:01.41
