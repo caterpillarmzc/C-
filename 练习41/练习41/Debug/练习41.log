@@ -1,0 +1,24 @@
+﻿生成启动时间为 2019/6/18 23:13:59。
+     1>项目“E:\重要文件\CCCCC\练习41\练习41\练习41.vcxproj”在节点 2 上(Build 个目标)。
+     1>ClCompile:
+         D:\visual studio\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TC /analyze- /errorReport:prompt test.c
+         test.c
+     1>e:\重要文件\ccccc\练习41\练习41\test.c(183): error C2275: “node”: 将此类型用作表达式非法
+                 e:\重要文件\ccccc\练习41\练习41\test.c(8) : 参见“node”的声明
+     1>e:\重要文件\ccccc\练习41\练习41\test.c(183): error C2065: “list2”: 未声明的标识符
+     1>e:\重要文件\ccccc\练习41\练习41\test.c(184): error C2065: “list2”: 未声明的标识符
+     1>e:\重要文件\ccccc\练习41\练习41\test.c(184): warning C4047: “==”:“int”与“void *”的间接级别不同
+     1>e:\重要文件\ccccc\练习41\练习41\test.c(194): error C2065: “list2”: 未声明的标识符
+     1>e:\重要文件\ccccc\练习41\练习41\test.c(194): warning C4047: “函数”:“node *”与“int”的间接级别不同
+     1>e:\重要文件\ccccc\练习41\练习41\test.c(194): warning C4024: “add_tail”: 形参和实参 1 的类型不同
+     1>e:\重要文件\ccccc\练习41\练习41\test.c(196): error C2065: “list2”: 未声明的标识符
+     1>e:\重要文件\ccccc\练习41\练习41\test.c(196): warning C4047: “函数”:“node *”与“int”的间接级别不同
+     1>e:\重要文件\ccccc\练习41\练习41\test.c(196): warning C4024: “print_list”: 形参和实参 1 的类型不同
+     1>e:\重要文件\ccccc\练习41\练习41\test.c(203): error C2065: “list2”: 未声明的标识符
+     1>e:\重要文件\ccccc\练习41\练习41\test.c(203): warning C4047: “函数”:“node *”与“int”的间接级别不同
+     1>e:\重要文件\ccccc\练习41\练习41\test.c(203): warning C4024: “dis_list”: 形参和实参 1 的类型不同
+     1>已完成生成项目“E:\重要文件\CCCCC\练习41\练习41\练习41.vcxproj”(Build 个目标)的操作 - 失败。
+
+生成失败。
+
+已用时间 00:00:01.04
