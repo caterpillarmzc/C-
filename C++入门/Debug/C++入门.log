@@ -1,0 +1,18 @@
+﻿生成启动时间为 2019/7/11 11:16:15。
+     1>项目“E:\重要文件\CCCCC\C++入门\C++入门\C++入门.vcxproj”在节点 2 上(Build 个目标)。
+     1>ClCompile:
+         D:\visual studio\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt test.cpp
+         test.cpp
+     1>e:\重要文件\ccccc\c++入门\c++入门\test.cpp(89): error C2084: 函数“int main(void)”已有主体
+                 e:\重要文件\ccccc\c++入门\c++入门\test.cpp(70) : 参见“main”的前一个定义
+     1>e:\重要文件\ccccc\c++入门\c++入门\test.cpp(101): error C2572: “TestFunc”: 重定义默认参数 : 参数 3
+                 e:\重要文件\ccccc\c++入门\c++入门\test.cpp(95) : 参见“TestFunc”的声明
+     1>e:\重要文件\ccccc\c++入门\c++入门\test.cpp(101): error C2572: “TestFunc”: 重定义默认参数 : 参数 2
+                 e:\重要文件\ccccc\c++入门\c++入门\test.cpp(95) : 参见“TestFunc”的声明
+     1>e:\重要文件\ccccc\c++入门\c++入门\test.cpp(101): error C2084: 函数“void TestFunc(int,int,int)”已有主体
+                 e:\重要文件\ccccc\c++入门\c++入门\test.cpp(95) : 参见“TestFunc”的前一个定义
+     1>已完成生成项目“E:\重要文件\CCCCC\C++入门\C++入门\C++入门.vcxproj”(Build 个目标)的操作 - 失败。
+
+生成失败。
+
+已用时间 00:00:01.97
